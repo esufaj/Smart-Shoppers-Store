@@ -1,0 +1,4 @@
+name,id,email,password,storeID,permissions
+manager,1,manager@manager.com,manager,1,Manager
+admin,2,admin@admin.com,admin,5,Admin
+customer,3,customer@customer.com,customer,8,Customer

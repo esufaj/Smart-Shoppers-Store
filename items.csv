@@ -1,0 +1,20 @@
+itemID,name,size,category,price,isitemavailable,numtimesviewed,aislenumber,onsale,description
+1,Apples,5 Apples,Food,3.2,true,137,1,true,Giant deliciously juicy Canadian King Red Apples.
+2,Watch,1,Accessories,65.25,true,26,2,false,Slim watch with a brown stretchy leather band fit for all wrist sizes.
+12,Pizza,Medium,Food,1000.25,true,21,1,true,Medium gold encrusted pizza from the swiss alpes made fresh to order. Import time takes ~3h.
+10,Chocolate,1,Food,2.1,true,17,1,true,Decadent milky chocolate from the French reserves.
+11,Jeans,32x32,Clothes,56.5,true,13,6,false,Skinny jeans in grey with a knee slit and stylish material finish.
+9,Desk,1,Office,262.56,true,12,5,true,Brown L-shaped desk wide enough for many monitors. Perfect for any office or home space.
+6,Detergent,7 L,Cleaning,17.99,true,10,5,true,Detergent that will leave your clothes smelling clean and fresh for weeks.
+3,Toaster,1,Appliances,32.35,true,10,3,false,Silver toaster from ToastMaster with 8 modes and high voltage.
+5,Remote,1,Electronics,15.66,true,12,4,false,Universal remote that connects with any TV.
+4,Headphones,1,Electronics,26.99,true,8,4,true,White Apple Airpods with long distance bluetooth connectivity and lasting battery.
+8,Computer,1,Electronics,1299.8,true,4,4,false,"AMD 5900x, RTX 3080, 32GBs CL14 G.Skills RAM, Lian-Li case, x9 fans."
+7,Television,55 IN,Electronics,799.99,true,5,4,false,55 inches of pure ultra realistic high definition resolution fit for any livingroom.
+16,Gym Bag,1,Accessories,25.3,true,3,0,true,Grey gym bag perfect for storing many items.
+17,PS4 Controller,1,Electronics,60.23,true,4,7,true,PS4 controller for the PS4 console in blue.
+19,Notebook,1,Office,5.5,true,4,6,false,"100pg notebook good for any office, home, school student or note taker."
+14,Earrings,1,Accessories,8.7,true,2,4,true,Diamond earrings from Switzerland.
+15,Nike Shoes,11,Clothes,98.0,true,2,5,true,Nike running shoes made from real leather and fabric from a cows belly.
+13,Cookies,1,Food,3.5,true,2,2,true,Delicious chocolate chip cookies
+20,Picture Frame,6x4,Office,9.8,true,1,2,false,6x4 picture frame in grey made from pure silver.
