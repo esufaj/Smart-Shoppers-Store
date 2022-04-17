@@ -20,4 +20,4 @@ To run this project,
 
     6. I hope you enjoy this sample store as much as I did. I had a great time making it and really learned so much.
 
-TO WATCH A DEMO OF THIS STORE IN ACTION, PLEASE CLICK THIS LINK: https://www.youtube.com/watch?v=Bmn-03hEKfQ&t=59s
+TO WATCH A DEMO OF THIS STORE IN ACTION, PLEASE CLICK THIS LINK: https://www.youtube.com/watch?v=Bmn-03hEKfQ
