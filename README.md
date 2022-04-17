@@ -8,16 +8,16 @@ In hindsight there are many improvements that could be made to this store. The w
 
 To run this project,
 
-    Download all files
+    1. Download all files
 
-    Place all CSVs on desktop as we are using a simulated database
+    2. Place all CSVs on desktop as we are using a simulated database
 
-    Premade Customer signin: USER: customer PASS: customer. (You may create your own account if you wish).
+    3. Premade Customer signin: USER: customer PASS: customer. (You may create your own account if you wish).
 
-    Admin signin: USER: admin PASS: admin
+    4. Admin signin: USER: admin PASS: admin
 
-    Manager signin: USER: manager PASS: manager. (You may create new managers by signing in as admin).
+    5. Manager signin: USER: manager PASS: manager. (You may create new managers by signing in as admin).
 
-    I hope you enjoy this sample store as much as I did. I had a great time making it and really learned so much.
+    6. I hope you enjoy this sample store as much as I did. I had a great time making it and really learned so much.
 
 TO WATCH A DEMO OF THIS STORE IN ACTION, PLEASE CLICK THIS LINK: https://www.youtube.com/watch?v=Bmn-03hEKfQ&t=59s
